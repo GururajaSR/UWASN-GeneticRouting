@@ -142,7 +142,7 @@ M 10.50000 67 (1364.92, 627.13, 0.00), (1421.66, 299.00), 20.50
 ![Underwater Networking](https://github.com/user-attachments/assets/860ed273-33e9-4248-9cc8-4eef6d583982)
 
 
-### **Description**: Provides a comprehensive view of node interactions and data flow in the underwater network.
+-**Description**: Provides a comprehensive view of node interactions and data flow in the underwater network.
 - **Analysis**:
   - Highlights the overall network connectivity and data transmission dynamics.
   - Demonstrates the effectiveness of the routing strategies in managing communication in a complex underwater environment.
